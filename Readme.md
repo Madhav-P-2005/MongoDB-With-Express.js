@@ -1,11 +1,4 @@
-Thanks for the clarification! Here's the **updated `README.md`** file with proper attribution to *Haris Ali Khan (CodeWithHarry)* and the YouTube link added at the end.
-
----
-
-````md
 # 📘 MongoDB & Express.js — A Complete Guide
-
----
 
 ## 🔍 What is MongoDB?
 
