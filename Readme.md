@@ -1,13 +1,3 @@
-Here’s your updated `README.md` file, now including:
-
-* A clear section on **Mongoose** and its usage
-* Updated instructions for your `Mongoose-With-Express.js` setup
-* Mention of your own project files (`ToDo.js`, `Mongoose-With-Express.js`)
-* Maintained the structure and included proper credits
-
----
-
-````markdown
 # 📘 MongoDB & Express.js — A Complete Guide
 
 ## 🔍 What is MongoDB?
@@ -136,7 +126,7 @@ npm install mongoose
 | `$and`, `$or` | Combine multiple query conditions |
 | `$in`, `$nin` | Match values in / not in an array |
 
-🧠 Learn more: [MongoDB Query Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
+🧠 Learn more :-  [MongoDB Query Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
 
 ---
 
