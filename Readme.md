@@ -99,3 +99,16 @@ You will learn how to:
 
 Tutorial followed from **CodeWithHarry** — Haris Ali Khan
 📺 [Sigma Web Development Course](https://www.youtube.com/watch?v=oMrKVEedpHg&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=94)
+
+
+// What is Mongoose ? 
+
+
+// MongoDB name ka package ? :- MongoDB Node.js Driver   --> It is very raw package  but there is a advance package mongoose 
+
+=> Helps in validation 
+=> query based building 
+
+
+
+npm i mongoose 
